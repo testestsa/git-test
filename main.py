@@ -1,1 +1,1 @@
-print("hai gais")
+print("hai gais nama saya tono")
